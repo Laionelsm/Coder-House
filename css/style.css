@@ -27,7 +27,7 @@ nav ul li {
 }
 
 .habitacion {
-    background-image: url(/assets/images/Habitacion.jpg);
+    background-image: url(assets/images/Habitacion.jpg);
     background-position: bottom center;
     background-repeat: no-repeat;
     background-size: cover;
